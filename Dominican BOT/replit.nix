@@ -1,0 +1,5 @@
+run = "python main.py"
+modules = ["python-3.10"]
+
+[nix]
+channel = "stable-23_11"
